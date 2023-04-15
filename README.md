@@ -1,4 +1,4 @@
-#Polaire Labs - Unleash Your Digital Potential
+# Polaire Labs - Unleash Your Digital Potential
 Transform your groundbreaking ideas into profitable, scalable, and cutting-edge technological solutions with Polaire Labs. As a boutique development firm, we specialize in creating custom digital experiences tailored to your unique business needs.
 
 ## Partner With The Experts
