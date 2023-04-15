@@ -5,7 +5,7 @@
 
 Transform your groundbreaking ideas into profitable, scalable, and cutting-edge technological solutions with Polaire Labs. As a boutique development firm, we specialize in creating custom digital experiences tailored to your unique business needs.
 
-## Partner With The Experts
+## Partner With Experts
 Unlock a world of digital possibilities with our comprehensive suite of services:
 
 ## 🚀 AI & Machine Learning
