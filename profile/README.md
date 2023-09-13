@@ -2,7 +2,6 @@
 
 ![Asset 8@4x](https://user-images.githubusercontent.com/76957166/232187298-8ff13a86-7121-41ac-b4b0-281986e807f5.png)
 
-
 Transform your groundbreaking ideas into profitable, scalable, and cutting-edge technological solutions with Polaire Labs. As a boutique development firm, we specialize in creating custom digital experiences tailored to your unique business needs.
 
 ## Partner With Experts
@@ -25,3 +24,5 @@ _________________
 ### Ready to take your digital strategy to new heights?
 
 **[Contact Polaire Labs](info@polairelabs.com)** today and discover how we can help you turn your ideas into reality. Let's shape the future of your business together!
+
+<img src="https://github.com/polairelabs/.github/assets/23429064/4b81a480-533a-4bac-9724-fe98b7e886f1" width="100">
