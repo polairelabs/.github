@@ -30,4 +30,4 @@ _________________
 <!-- <img src="https://github.com/polairelabs/.github/assets/23429064/4b81a480-533a-4bac-9724-fe98b7e886f1" width="100"> -->
 
 ![pl](https://github.com/polairelabs/.github/assets/23429064/dda748f9-24f2-4819-805a-8fb54aeb1152)
-<pre>The Penguin is ready for work
+<pre>The Penguin is hard at work
