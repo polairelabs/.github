@@ -1,6 +1,6 @@
 # Polaire Labs - Unleash Your Digital Potential
 
-![Asset 8@4x](https://user-images.githubusercontent.com/76957166/232187298-8ff13a86-7121-41ac-b4b0-281986e807f5.png)
+![image](https://github.com/user-attachments/assets/f3791720-5cd7-4a13-88ae-f6173d0d9aa7)
 
 Transform your groundbreaking ideas into profitable, scalable, and cutting-edge technological solutions with Polaire Labs. As a boutique development firm, we specialize in creating custom digital experiences tailored to your unique business needs.
 
