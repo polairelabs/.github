@@ -1,4 +1,4 @@
-# Polaire Labs - Unleash Your Digital Potential
+# Polaire Labs - Deliver Excellency
 
 ![image](https://github.com/user-attachments/assets/f3791720-5cd7-4a13-88ae-f6173d0d9aa7)
 
