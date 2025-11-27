@@ -27,7 +27,6 @@ _________________
 
 <br>
 
-<!-- <img src="https://github.com/polairelabs/.github/assets/23429064/4b81a480-533a-4bac-9724-fe98b7e886f1" width="100"> -->
+<a target="_blank" rel="noopener noreferrer" href="polairelabs.com"><img width="554" height="200" alt="penguin-final-for-now" src="https://github.com/user-attachments/assets/ee7f9a19-3d89-4130-99da-090fd6a7f4b2" /></a>
 
-![pl](https://github.com/polairelabs/.github/assets/23429064/dda748f9-24f2-4819-805a-8fb54aeb1152)
-<pre>The Penguin is hard at work
+<pre>The Penguin is cooking
