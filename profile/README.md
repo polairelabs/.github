@@ -23,7 +23,7 @@ _________________
 
 ### Ready to take your digital strategy to new heights?
 
-**[Contact Polaire Labs](info@polairelabs.com)** today and discover how we can help you turn your ideas into reality. Let's shape the future of your business together!
+**[Contact Polaire Labs](https://polairelabs.com/contact/)** today and discover how we can help you turn your ideas into reality. Let's shape the future of your business together!
 
 <br>
 
