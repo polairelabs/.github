@@ -27,6 +27,7 @@ _________________
 
 <br>
 
-<a target="_blank" rel="noopener noreferrer" href="https://polairelabs.com"><img width="440" height="220" alt="penguin-with-wall" src="https://github.com/user-attachments/assets/9049019a-248d-4a31-aab7-7882bb4d5aac" /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://polairelabs.com"><img width="440" height="220" alt="penguin-with-wall" src="https://github.com/user-attachments/assets/ac65aa72-e866-4ed3-9aa5-2c9fe01e4bd8" /></a>
+
 
 <pre>The Penguin is relentlessly cooking
